@@ -14,15 +14,16 @@
 
 - name: MediaHub Ltd
   link: https://www.mediahub.eu.com
-  image: /static/img/mediahub_logo.svg
+  image: /static/img/mediahub-logo.svg
   current: true
 
 - name: Psychz Networks, A Profuse Solutions Inc Company
   link: https://www.psychz.net/
-  image: /static/img/psychz-networks-logo.png
+  image: /static/img/psychz-networks-logo.webp
   current: true
 
 - name: Ziax
   link: https://ziax.com/
-  image: /static/img/ziax-logo-dark.png
+  image: /static/img/ziax-logo-dark.webp
+  image_dark: /static/img/ziax-logo-white.webp
   current: true
